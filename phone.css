@@ -1,0 +1,32 @@
+/* Navigation Section */
+#navbar{
+    flex-direction: column;
+}
+.name{
+    text-align: center;
+}   
+/* Home Section */
+
+.home{
+    height:217px;
+}
+.home p{
+    font-size: 10px;
+}
+
+/* Explore Section */
+#content{
+    flex-direction: column;
+}
+
+#content .box{
+    width: 71%;
+}
+
+/* Utility classes */
+.h-primary{
+    font-size: 10px;
+}
+#para{
+    font-size: 10px;
+}

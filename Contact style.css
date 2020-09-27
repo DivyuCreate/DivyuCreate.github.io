@@ -1,0 +1,16 @@
+h2{
+    display: inline;
+    background-color: #d5d5d5;
+    margin-bottom: 70px;
+
+}
+.box{
+    /* border: 2px red solid; */
+    display: flex;
+    background-color:#d1dbaf;
+
+    margin-top: 14px;
+    padding: 53px;
+    
+    
+}
